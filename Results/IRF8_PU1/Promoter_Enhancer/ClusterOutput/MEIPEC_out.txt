@@ -1,0 +1,37 @@
+Sender: LSF System <lsfadmin@linuxbsc002>
+Subject: Job 19907539: <MEIPEC> in cluster <rcc> Done
+
+Job <MEIPEC> was submitted from host <cluster> by user <eg474423> in cluster <rcc>.
+Job was executed on host(s) <linuxbsc002>, in queue <normal>, as user <eg474423> in cluster <rcc>.
+</home/eg474423> was used as the home directory.
+</work/eg474423/eg474423_Projects/trunk/DendriticCells/Results/IRF8_PU1_Promoter_Enhancer> was used as the working directory.
+Started at Fri Dec  5 10:49:27 2014
+Results reported on Fri Dec  5 11:39:00 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./motifAnalysis_pipeline.zsh --enrichment --organism mm9 --promoter-length 1000 --maximum-association-length 50000 --multiple-test-alpha 0.05 --processes 1 --output-location /work/eg474423/eg474423_Projects/trunk/DendriticCells/Results/IRF8_PU1_Promoter_Enhancer/Results/c/ --print-thresh 1.0 --bigbed /work/eg474423/eg474423_Projects/trunk/DendriticCells/Results/IRF8_PU1_Promoter_Enhancer/ExpMat/cdc_up.txt /work/eg474423/eg474423_Projects/trunk/DendriticCells/Results/IRF8_PU1_Promoter_Enhancer/Results/c/
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time :                                   3588.76 sec.
+    Max Memory :                                 1233 MB
+    Average Memory :                             392.38 MB
+    Total Requested Memory :                     12000.00 MB
+    Delta Memory :                               10767.00 MB
+    Max Processes :                              9
+    Max Threads :                                13
+
+The output (if any) follows:
+
+
+
+PS:
+
+Read file <MEIPEC_err.txt> for stderr output of this job.
+

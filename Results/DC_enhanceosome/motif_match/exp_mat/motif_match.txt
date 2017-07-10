@@ -1,0 +1,2 @@
+name	type	file
+genome	regions	/work/eg474423/eg474423_Projects/trunk/DendriticCells/Results/DC_enhanceosome/motif_match/input/tiled_genome.bed

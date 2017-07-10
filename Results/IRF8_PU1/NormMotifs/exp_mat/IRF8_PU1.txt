@@ -1,0 +1,13 @@
+name	type	file
+# CDP
+CDP_PU1_IRF8	regions	/work/eg474423/eg474423_Projects/trunk/DendriticCells/Results/IRF8_PU1_NormMotifs/input/100/CDP_PU1_IRF8.bed
+CDP_IRF8-PU1    regions /work/eg474423/eg474423_Projects/trunk/DendriticCells/Results/IRF8_PU1_NormMotifs/input/100/CDP_m_PU1_IRF8.bed
+CDP_PU1-IRF8    regions /work/eg474423/eg474423_Projects/trunk/DendriticCells/Results/IRF8_PU1_NormMotifs/input/100/CDP_PU1_m_IRF8.bed
+# cDC
+cDC_PU1_IRF8    regions /work/eg474423/eg474423_Projects/trunk/DendriticCells/Results/IRF8_PU1_NormMotifs/input/100/cDC_PU1_IRF8.bed
+cDC_IRF8-PU1    regions /work/eg474423/eg474423_Projects/trunk/DendriticCells/Results/IRF8_PU1_NormMotifs/input/100/cDC_m_PU1_IRF8.bed
+cDC_PU1-IRF8    regions /work/eg474423/eg474423_Projects/trunk/DendriticCells/Results/IRF8_PU1_NormMotifs/input/100/cDC_PU1_m_IRF8.bed
+# pDC
+pDC_PU1_IRF8    regions /work/eg474423/eg474423_Projects/trunk/DendriticCells/Results/IRF8_PU1_NormMotifs/input/100/pDC_PU1_IRF8.bed
+pDC_IRF8-PU1    regions /work/eg474423/eg474423_Projects/trunk/DendriticCells/Results/IRF8_PU1_NormMotifs/input/100/pDC_m_PU1_IRF8.bed
+pDC_PU1-IRF8    regions /work/eg474423/eg474423_Projects/trunk/DendriticCells/Results/IRF8_PU1_NormMotifs/input/100/pDC_PU1_m_IRF8.bed

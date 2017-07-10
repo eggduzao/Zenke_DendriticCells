@@ -1,0 +1,37 @@
+Sender: LSF System <lsfadmin@linuxihbc45>
+Subject: Job 23688401: <MM_QIONG> in cluster <rcc> Done
+
+Job <MM_QIONG> was submitted from host <cluster> by user <eg474423> in cluster <rcc>.
+Job was executed on host(s) <linuxihbc45>, in queue <ih>, as user <eg474423> in cluster <rcc>.
+</home/eg474423> was used as the home directory.
+</work/eg474423/eg474423_Projects/trunk/DendriticCells/Results/DC_enhanceosome/motif_match> was used as the working directory.
+Started at Wed Aug 26 18:12:24 2015
+Results reported on Wed Aug 26 18:17:00 2015
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./motifAnalysis_pipeline.zsh --matching --organism mm9 --fpr 0.0001 --precision 10000 --pseudocounts 0.1 --rand-proportion 0.001 --output-location /work/eg474423/eg474423_Projects/trunk/DendriticCells/Results/DC_enhanceosome/motif_match/results/ --bigbed /work/eg474423/eg474423_Projects/trunk/DendriticCells/Results/DC_enhanceosome/motif_match/exp_mat/motif_match.txt
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time :                                   258.22 sec.
+    Max Memory :                                 3590 MB
+    Average Memory :                             1561.00 MB
+    Total Requested Memory :                     24000.00 MB
+    Delta Memory :                               20410.00 MB
+    Max Processes :                              6
+    Max Threads :                                7
+
+The output (if any) follows:
+
+
+
+PS:
+
+Read file <MM_QIONG_err.txt> for stderr output of this job.
+

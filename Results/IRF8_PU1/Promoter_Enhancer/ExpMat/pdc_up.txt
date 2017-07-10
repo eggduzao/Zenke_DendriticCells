@@ -1,0 +1,13 @@
+name	type	file	genegroup
+# Regions
+pDC_IRF8-PU1_pDC_enhancer	regions	/work/eg474423/ig440396_dendriticcells/exp/diffpeak/res/stats/intersect_irf8_pu1_promoter_enhancer/pDC_IRF8-PU1_pDC_enhancer.bed	GENE_pDC_UP
+pDC_IRF8-PU1_pDC_promoter	regions	/work/eg474423/ig440396_dendriticcells/exp/diffpeak/res/stats/intersect_irf8_pu1_promoter_enhancer/pDC_IRF8-PU1_pDC_promoter.bed	GENE_pDC_UP
+pDC_PU1-IRF8_pDC_enhancer	regions	/work/eg474423/ig440396_dendriticcells/exp/diffpeak/res/stats/intersect_irf8_pu1_promoter_enhancer/pDC_PU1-IRF8_pDC_enhancer.bed	GENE_pDC_UP
+pDC_PU1-IRF8_pDC_promoter	regions	/work/eg474423/ig440396_dendriticcells/exp/diffpeak/res/stats/intersect_irf8_pu1_promoter_enhancer/pDC_PU1-IRF8_pDC_promoter.bed	GENE_pDC_UP
+pDC_PU1_IRF8_pDC_enhancer	regions	/work/eg474423/ig440396_dendriticcells/exp/diffpeak/res/stats/intersect_irf8_pu1_promoter_enhancer/pDC_PU1_IRF8_pDC_enhancer.bed	GENE_pDC_UP
+pDC_PU1_IRF8_pDC_promoter	regions	/work/eg474423/ig440396_dendriticcells/exp/diffpeak/res/stats/intersect_irf8_pu1_promoter_enhancer/pDC_PU1_IRF8_pDC_promoter.bed	GENE_pDC_UP
+pDC_IRF8-PU1_pDC_enhancer_in	regions	/work/eg474423/ig440396_dendriticcells/exp/diffpeak/res/stats/intersect_irf8_pu1_promoter_enhancer/pDC_PU1_IRF8_pDC_enhancer_in.bed	GENE_pDC_UP
+pDC_PU1-IRF8_pDC_enhancer_in	regions	/work/eg474423/ig440396_dendriticcells/exp/diffpeak/res/stats/intersect_irf8_pu1_promoter_enhancer/pDC_IRF8-PU1_pDC_enhancer_in.bed	GENE_pDC_UP
+pDC_PU1_IRF8_pDC_enhancer_in	regions	/work/eg474423/ig440396_dendriticcells/exp/diffpeak/res/stats/intersect_irf8_pu1_promoter_enhancer/pDC_PU1-IRF8_pDC_enhancer_in.bed	GENE_pDC_UP
+# Gene lists
+GENE_pDC_UP	genes	/work/eg474423/ig440396_dendriticcells/exp/diffpeak/expression/pdc_up.txt	GENE_pDC_UP

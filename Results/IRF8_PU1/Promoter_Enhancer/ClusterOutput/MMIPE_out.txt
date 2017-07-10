@@ -1,0 +1,37 @@
+Sender: LSF System <lsfadmin@linuxihbc45>
+Subject: Job 19259299: <MMIPE> in cluster <rcc> Done
+
+Job <MMIPE> was submitted from host <cluster> by user <eg474423> in cluster <rcc>.
+Job was executed on host(s) <linuxihbc45>, in queue <ih>, as user <eg474423> in cluster <rcc>.
+</home/eg474423> was used as the home directory.
+</work/eg474423/eg474423_Projects/trunk/DendriticCells/Results/IRF8_PU1_Promoter_Enhancer> was used as the working directory.
+Started at Fri Oct 17 17:03:02 2014
+Results reported on Sat Oct 18 03:18:39 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./motifAnalysis_pipeline.zsh --matching --organism mm9 --fpr 0.0001 --precision 10000 --pseudocounts 0.1 --rand-proportion 10 --output-location /work/eg474423/eg474423_Projects/trunk/DendriticCells/Results/IRF8_PU1_Promoter_Enhancer/Results/ --bigbed /work/eg474423/eg474423_Projects/trunk/DendriticCells/Results/IRF8_PU1_Promoter_Enhancer/ExpMat/MotifMatch.txt
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time :                                   37153.24 sec.
+    Max Memory :                                 3365 MB
+    Average Memory :                             1303.97 MB
+    Total Requested Memory :                     42000.00 MB
+    Delta Memory :                               38635.00 MB
+    Max Processes :                              7
+    Max Threads :                                8
+
+The output (if any) follows:
+
+
+
+PS:
+
+Read file <MMIPE_err.txt> for stderr output of this job.
+

@@ -1,0 +1,11 @@
+name	type	file
+# Regions
+CDP_IRF8-PU1_CDP_enhancer	regions	/work/eg474423/ig440396_dendriticcells/exp/diffpeak/res/stats/intersect_irf8_pu1_promoter_enhancer/CDP_IRF8-PU1_CDP_enhancer.bed
+CDP_IRF8-PU1_CDP_promoter	regions	/work/eg474423/ig440396_dendriticcells/exp/diffpeak/res/stats/intersect_irf8_pu1_promoter_enhancer/CDP_IRF8-PU1_CDP_promoter.bed
+CDP_PU1-IRF8_CDP_enhancer	regions	/work/eg474423/ig440396_dendriticcells/exp/diffpeak/res/stats/intersect_irf8_pu1_promoter_enhancer/CDP_PU1-IRF8_CDP_enhancer.bed
+CDP_PU1-IRF8_CDP_promoter	regions	/work/eg474423/ig440396_dendriticcells/exp/diffpeak/res/stats/intersect_irf8_pu1_promoter_enhancer/CDP_PU1-IRF8_CDP_promoter.bed
+CDP_PU1_IRF8_CDP_enhancer	regions	/work/eg474423/ig440396_dendriticcells/exp/diffpeak/res/stats/intersect_irf8_pu1_promoter_enhancer/CDP_PU1_IRF8_CDP_enhancer.bed
+CDP_PU1_IRF8_CDP_promoter	regions	/work/eg474423/ig440396_dendriticcells/exp/diffpeak/res/stats/intersect_irf8_pu1_promoter_enhancer/CDP_PU1_IRF8_CDP_promoter.bed
+CDP_IRF8-PU1_CDP_enhancer_in	regions	/work/eg474423/ig440396_dendriticcells/exp/diffpeak/res/stats/intersect_irf8_pu1_promoter_enhancer/CDP_PU1_IRF8_CDP_enhancer_in.bed
+CDP_PU1-IRF8_CDP_enhancer_in	regions	/work/eg474423/ig440396_dendriticcells/exp/diffpeak/res/stats/intersect_irf8_pu1_promoter_enhancer/CDP_IRF8-PU1_CDP_enhancer_in.bed
+CDP_PU1_IRF8_CDP_enhancer_in	regions	/work/eg474423/ig440396_dendriticcells/exp/diffpeak/res/stats/intersect_irf8_pu1_promoter_enhancer/CDP_PU1-IRF8_CDP_enhancer_in.bed

@@ -1,0 +1,37 @@
+Sender: LSF System <lsfadmin@linuxbmc0083>
+Subject: Job 19654208: <MMDER> in cluster <rcc> Done
+
+Job <MMDER> was submitted from host <cluster> by user <eg474423> in cluster <rcc>.
+Job was executed on host(s) <linuxbmc0083>, in queue <low>, as user <eg474423> in cluster <rcc>.
+</home/eg474423> was used as the home directory.
+</work/eg474423/eg474423_Projects/trunk/DendriticCells/Results/DC_enhanceosome/motif_enrichment> was used as the working directory.
+Started at Wed Nov  5 16:10:43 2014
+Results reported on Sat Nov  8 12:43:17 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./motifAnalysis_pipeline.zsh --matching --organism mm9 --fpr 0.0001 --precision 10000 --pseudocounts 0.1 --rand-proportion 10 --output-location /work/eg474423/eg474423_Projects/trunk/DendriticCells/Results/DC_enhanceosome/motif_enrichment/results/ --bigbed /work/eg474423/eg474423_Projects/trunk/DendriticCells/Results/DC_enhanceosome/motif_enrichment/exp_mat/motif_match.txt
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time :                                   247647.77 sec.
+    Max Memory :                                 28083 MB
+    Average Memory :                             4179.12 MB
+    Total Requested Memory :                     40960.00 MB
+    Delta Memory :                               12877.00 MB
+    Max Processes :                              7
+    Max Threads :                                8
+
+The output (if any) follows:
+
+
+
+PS:
+
+Read file <MMDER_err.txt> for stderr output of this job.
+
